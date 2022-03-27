@@ -1,2 +1,2 @@
 # GatlingTest
-Playing with Gatling and Jenkins
+Playing with Gatling and GitHub Actions
